@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Parcel Scout icon</title>
+  <desc id="desc">Parcel boundary geometry with survey nodes and a magnifying glass.</desc>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M39 48 L82 30 L120 59 L104 124 L55 132 L25 86 Z" stroke="#1F4ED8" stroke-width="9"/>
+    <path d="M44 52 L94 112" stroke="#9DB1EA" stroke-width="6" stroke-dasharray="3 10"/>
+    <circle cx="39" cy="48" r="11" fill="#fff" stroke="#1F4ED8" stroke-width="7"/>
+    <circle cx="82" cy="30" r="11" fill="#fff" stroke="#1F4ED8" stroke-width="7"/>
+    <circle cx="120" cy="59" r="11" fill="#fff" stroke="#1F4ED8" stroke-width="7"/>
+    <circle cx="104" cy="124" r="11" fill="#fff" stroke="#1F4ED8" stroke-width="7"/>
+    <circle cx="83" cy="79" r="28" fill="#fff" stroke="#1F4ED8" stroke-width="9"/>
+    <path d="M104 101 L133 130" stroke="#1F4ED8" stroke-width="12"/>
+  </g>
+</svg>
