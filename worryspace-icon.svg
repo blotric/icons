@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+<title id="title">WorrySpace icon</title><desc id="desc">A heart-shaped outline containing two growing leaves.</desc>
+<path d="M32 55C25 48 12 39 9 27 6 16 13 9 22 9c5 0 9 3 10 7 2-4 6-7 11-7 9 0 16 7 13 18-3 12-16 21-24 28Z" fill="none" stroke="#3F6457" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M32 52V31" fill="none" stroke="#3F6457" stroke-width="3.2" stroke-linecap="round"/>
+<path d="M31 34C22 34 17 29 16 21c8 0 14 4 15 13Z" fill="#EDF3EF" stroke="#3F6457" stroke-width="3" stroke-linejoin="round"/>
+<path d="M33 30c1-10 7-16 17-17 0 10-6 17-17 17Z" fill="#EDF3EF" stroke="#3F6457" stroke-width="3" stroke-linejoin="round"/>
+<path d="M20 24c5 3 8 7 11 12M45 18c-6 4-10 8-13 14" fill="none" stroke="#3F6457" stroke-width="2.4" stroke-linecap="round"/>
+</svg>
